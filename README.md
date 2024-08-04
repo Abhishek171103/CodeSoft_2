@@ -1,2 +1,2 @@
 # CodeSoft_2
-LANDING PAGE
+Project 2 => LANDING PAGE
